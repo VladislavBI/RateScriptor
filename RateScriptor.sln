@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateScriptor.UI", "RateScriptor.UI\RateScriptor.UI.csproj", "{CAF59A6E-6B30-4CE9-8EF6-C751734CB975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateScriptor.UI.Tests", "RateScriptor.UI.Tests\RateScriptor.UI.Tests.csproj", "{4BD8A390-8B8D-4F05-BFFF-A14FAE21583B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF59A6E-6B30-4CE9-8EF6-C751734CB975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF59A6E-6B30-4CE9-8EF6-C751734CB975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF59A6E-6B30-4CE9-8EF6-C751734CB975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF59A6E-6B30-4CE9-8EF6-C751734CB975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD8A390-8B8D-4F05-BFFF-A14FAE21583B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD8A390-8B8D-4F05-BFFF-A14FAE21583B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD8A390-8B8D-4F05-BFFF-A14FAE21583B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD8A390-8B8D-4F05-BFFF-A14FAE21583B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
